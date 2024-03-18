@@ -1,0 +1,47 @@
+{
+    "VNM01": {
+        "Product name": "Sữa ông thọ đỏ hộp giấy",
+        "Barcode": "8934673208369",
+        "Category": "Hộp"
+    },
+    "VNM02": {
+        "Product name": "Sữa ông thọ vàng inox",
+        "Barcode": "8934673310505",
+        "Category": "Các loại lon sữa"
+    },
+    "VNM03": {
+        "Product name": "Sữa ông thọ xanh inox",
+        "Barcode": "8934673311502",
+        "Category": "Các loại lon sữa"
+    },
+    "VNM04": {
+        "Product name": "Sữa đặc ngôi sao hộp giấy",
+        "Barcode": "8934673314909",
+        "Category": "Hộp"
+    },
+    "VNM05": {
+        "Product name": "Sữa đặc ngôi sao inox",
+        "Barcode": "8934673314503",
+        "Category": "Các loại lon sữa"
+    },
+    "VNM06": {
+        "Product name": "Sữa tươi Vinamilk dâu",
+        "Barcode": "8934673574341",
+        "Category": "Hộp"
+    },
+    "VNM07": {
+        "Product name": "Nước Vfresh cam ép",
+        "Barcode": "8934673818391",
+        "Category": "Hộp"
+    },
+    "VNM08": {
+        "Product name": "Nước Vfresh táo ép",
+        "Barcode": "8934673819398",
+        "Category": "Hộp"
+    },
+    "VNM09": {
+        "Product name": "Sữa tươi Vinamilk không đuờng",
+        "Barcode": "8934673576390",
+        "Category": "Hộp"
+    }
+}

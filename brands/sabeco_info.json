@@ -1,0 +1,67 @@
+{
+    "SBC01": {
+        "Product name": "Bia Lager lon",
+        "Barcode": "8935012413321",
+        "Category": "Các loại lon nước"
+    },
+    "SBC02": {
+        "Product name": "Bia Export chai ",
+        "Barcode": "8935012423559",
+        "Category": "Các loại chai nước"
+    },
+    "SBC03": {
+        "Product name": "Bia Lager chai",
+        "Barcode": "8935012424501",
+        "Category": "Các loại chai nước"
+    },
+    "SBC04": {
+        "Product name": "Bia Special lon",
+        "Barcode": "8935012443304",
+        "Category": "Các loại lon nước"
+    },
+    "SBC05": {
+        "Product name": "Bia Chill lon",
+        "Barcode": "8935012443380",
+        "Category": "Các loại lon nước"
+    },
+    "SBC06": {
+        "Product name": "Bia 333 lon",
+        "Barcode": "8935012413338",
+        "Category": "Các loại lon nước"
+    },
+    "SBC07": {
+        "Product name": "Bia Export lon",
+        "Barcode": "8935012413345",
+        "Category": "Các loại lon nước"
+    },
+    "SBC08": {
+        "Product name": "Bia Chill chai",
+        "Barcode": "8935012423382",
+        "Category": "Các loại chai nước"
+    },
+    "SBC09": {
+        "Product name": "Bia Gold lon",
+        "Barcode": "8935012443366",
+        "Category": "Các loại lon nước"
+    },
+    "SBC10": {
+        "Product name": "Bia Lạc VIệt lon",
+        "Barcode": "8935012400109",
+        "Category": "Các loại lon nước"
+    },
+    "SBC11": {
+        "Product name": "Nước ngọt xá xị lon",
+        "Barcode": "8935015402544",
+        "Category": "Các loại lon nước"
+    },
+    "SBC12": {
+        "Product name": "Nước ngọt xá xị chai",
+        "Barcode": "8935015402544",
+        "Category": "Các loại chai nước"
+    },
+    "SBC13": {
+        "Product name": "Nước soda lon",
+        "Barcode": "8888826016175",
+        "Category": "Các loại lon nước"
+    }
+}

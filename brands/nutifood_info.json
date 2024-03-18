@@ -1,0 +1,82 @@
+{
+    "NTF01": {
+        "Product name": "Sữa đặc Nuti",
+        "Barcode": "8935049009214",
+        "Category": "Hộp"
+    },
+    "NTF02": {
+        "Product name": "Sữa Nutriboost hương cam",
+        "Barcode": "8935049511786",
+        "Category": "Các loại chai nước"
+    },
+    "NTF03": {
+        "Product name": "Sữa đậu nành Nuti bịch giấy",
+        "Barcode": "8935049006350",
+        "Category": "Bịch giấy"
+    },
+    "NTF04": {
+        "Product name": "Sữa Nuvi Grow",
+        "Barcode": "8935049013891",
+        "Category": "Hộp"
+    },
+    "NTF05": {
+        "Product name": "Sữa Grow Plus + hộp giấy",
+        "Barcode": "8935049002628",
+        "Category": "Hộp"
+    },
+    "NTF06": {
+        "Product name": "Sữa Grow Plus + inox",
+        "Barcode": "8935049002109",
+        "Category": "Các loại lon sữa"
+    },
+    "NTF07": {
+        "Product name": "Sữa đậu nành Nutri hộp giấy",
+        "Barcode": "8935049006060",
+        "Category": "Hộp"
+    },
+    "NTF08": {
+        "Product name": "Sữa đặc NutiMilk inox",
+        "Barcode": "8935049015079",
+        "Category": "Các loại lon sữa"
+    },
+    "NTF09": {
+        "Product name": "Sữa đặc NutiMilk hộp giấy",
+        "Barcode": "8935049015093",
+        "Category": "Hộp"
+    },
+    "NTF10": {
+        "Product name": "Sữa tươi NutiMilk",
+        "Barcode": "8935049004158",
+        "Category": "Hộp"
+    },
+    "NTF11": {
+        "Product name": "Sữa chua NutiMilk",
+        "Barcode": "8935049005407",
+        "Category": "Lốc"
+    },
+    "NTF12": {
+        "Product name": "Cawells Q10 100mg",
+        "Barcode": "7350083385154",
+        "Category": "Lọ"
+    },
+    "NTF13": {
+        "Product name": "Cawells Vitamin C 1000mg",
+        "Barcode": "7350083385017",
+        "Category": "Lọ"
+    },
+    "NTF14": {
+        "Product name": "Cawells Brain Gain",
+        "Barcode": "7350083385079",
+        "Category": "Lọ"
+    },
+    "NTF15": {
+        "Product name": "Cawells Hair, Skin, Nails",
+        "Barcode": "7350083385123",
+        "Category": "Lọ"
+    },
+    "NTF16": {
+        "Product name": "Cawells Testo Well",
+        "Barcode": "7350083385437",
+        "Category": "Lọ"
+    }
+}
